@@ -1,5 +1,5 @@
 {
-  "name": "github-contribution-hack",
+  "name": "git-learn",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,9 @@
   "description": "This Repo contains the Program for the Hack of GitHub Contribution Graph.",
   "dependencies": {
     "jsonfile": "^6.1.0",
-    "simple-git": "^2.35.2"
-  }
+    "simple-git": "^2.46.0"
+  },
+  "keywords": [
+    "git"
+  ]
 }
